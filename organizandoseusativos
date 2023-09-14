@@ -1,0 +1,15 @@
+ativos = []
+
+# Entrada da quantidade de ativos
+quantidadeAtivos = int(input("Digite seus ativos:"))
+
+# Entrada dos códigos dos ativos
+for codigoAtivo in range(quantidadeAtivos):
+    codigoAtivo = input()
+    ativos.append(codigoAtivo)
+
+# TODO: Ordenar os ativos em ordem alfabética.
+ativos.sort ()
+# TODO: Imprimir a lista de ativos ordenada, conforme a tabela de exemplos.
+for x in ativos:
+    print(x, end = "\n")
