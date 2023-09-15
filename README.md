@@ -4,6 +4,6 @@
 
 1º Desafio - Equilibrando Saldo
 
-2º Desafio - Estrutura de Dados: Organizando Os Seus Ativos
+2º Desafio - Organizando Os Seus Ativos
 
 3º Desafio - Condicionamento Rico
