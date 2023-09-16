@@ -7,3 +7,6 @@
 2º Desafio - Organizando Os Seus Ativos
 
 3º Desafio - Condicionamento Rico
+
+4º Desafio - Juros Compostos
+No Vs Code fundionou, mas na Dio não consegue calcular. 
